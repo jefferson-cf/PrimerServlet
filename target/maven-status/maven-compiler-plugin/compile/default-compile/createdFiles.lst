@@ -1,0 +1,9 @@
+logica\Usuario.class
+com\jefferson\primerservlet\servlets\SvUsuarios.class
+logica\Controladora.class
+logica\Usuario_.class
+persistencia\UsuarioJpaController.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
